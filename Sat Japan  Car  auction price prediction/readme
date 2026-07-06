@@ -1,1 +1,1 @@
-
+This is my first end-to-end Machine Learning and Data Science project, completed during my 3rd semester. The dataset was scraped from Sat Japan, a car-selling website. After collecting the data, I performed data cleaning, handled missing values, conducted exploratory data analysis (EDA), and built price prediction models using XGBoost and CatBoost. A Gradio-based user interface is also included to test the trained model with custom inputs.
